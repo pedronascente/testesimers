@@ -1,0 +1,1 @@
+<?php header('Location: public/list_employees.php'); exit; ?>
